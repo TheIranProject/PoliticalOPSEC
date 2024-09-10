@@ -1,6 +1,6 @@
 ## What?
 
-0. **Paranoia:** You must be paranoid. You can never be too careful when it comes to your digital security.
+**You must be paranoid. You can never be too careful when it comes to your digital security.**
 
 1. **Start from Scratch with OPSEC in Mind.**  
    If you already have a Twitter account with thousands of followers, consider abandoning it. It is highly likely that you have been careless and inadvertently shared personal information, even if the account is anonymous. This could include using a personal email address or connecting the account to your personal phone number through two-factor authentication (2FA). Start fresh with OPSEC in mind; don’t take unnecessary risks.
