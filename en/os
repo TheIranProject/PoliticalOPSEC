@@ -1,0 +1,25 @@
+## What to Do?
+
+1. If you are living under an authoritarian government, try to limit your activism to a laptop or PC whenever possible.
+
+2. If you are **not** living under an authoritarian government, consider using GrapheneOS, which is a privacy-focused operating system for mobile devices.
+
+3. For laptops, using TailsOS or Whonix (via a virtual machine) is the best option. No matter what OS you are running on your laptop (Windows, macOS, Linux), using virtual machines for political activism is always a good choice.
+
+4. Always keep everything updated: your main operating system, your virtual machine software, and the operating system running in your virtual machine.
+
+5. Avoid downloading any unknown software. Do not download cracked software or free VPNs. Be extra cautious about the software you download and install. If you absolutely must install questionable software, do it in a virtual machine. If possible, consider having a separate laptop or phone dedicated solely to activism.
+
+6. If you are using virtual machines, keep all data that can be used to identify you on separate VMs. Always assume that your VM could be compromised. Even if someone gains full access to the VM, they shouldn't be able to understand anything about your real identity.
+
+## Why?
+
+1. Your mobile device can be seized at any point for any reason (especially if you are attending protests), and using an unusual operating system might raise questions. Depending on the country you live in, the risk of your phone being taken by authorities may be substantially higher than the risk of being hacked by the government.
+
+2. Using a virtual machine can limit the damage in case you make a mistake (for example, if you accidentally download malware). While there are "escape" attacks that allow an attacker to break out of the virtual machine and access your main system, these attacks are very rare.
+
+3. **Consider Using a Live Operating System:** Live operating systems like Tails run from a USB stick and do not leave traces on the host machine. This can provide an additional layer of security, especially when accessing sensitive information or communicating about activism.
+
+4. **Be Aware of Physical Security:** In addition to digital security, consider your physical security. Be cautious about where and how you access your devices, and be aware of your surroundings, especially in public spaces.
+
+5. **Use Strong Passwords and Encryption:** Ensure that all your devices are protected with strong passwords and consider encrypting sensitive files. This adds an extra layer of security in case your device is compromised.
