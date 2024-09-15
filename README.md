@@ -17,4 +17,9 @@
 
 ---
 
+## General Rules
+1. [Not Getting Caught > Plausible Deniability](https://github.com/TheIranProject/PoliticalOPSEC/blob/main/en/plausible_deniability.md)
+
+---
+
 [How to contribute?](https://github.com/TheIranProject/PoliticalOPSEC/blob/main/contribution.md)
