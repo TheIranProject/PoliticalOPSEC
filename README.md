@@ -19,6 +19,8 @@
 
 ## General Rules
 1. [Not Getting Caught > Plausible Deniability](https://github.com/TheIranProject/PoliticalOPSEC/blob/main/en/plausible_deniability.md)
+2. [No Socializing](https://github.com/TheIranProject/PoliticalOPSEC/blob/main/en/no_socializing.md)
+3. [Ego trips are dangerous](https://github.com/TheIranProject/PoliticalOPSEC/blob/main/en/ego_trips.md)
 
 ---
 
