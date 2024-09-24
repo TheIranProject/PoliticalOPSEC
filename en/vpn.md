@@ -12,8 +12,13 @@
 3. **Never Use Free VPNs or Free Proxy Servers.**  
    Ensure that your VPN is reputable and has a no-logs policy. Among reputable VPNs, Mullvad and ProtonVPN are considered some of the most secure options.
 
-4. **Do Not Use VPN Before Tor.**  
-   If you are using both Tor and a VPN, if possible, try to connect to Tor first and then use the VPN.
+4. **Using VPN/Proxy/SSH with Tor:**  
+   Most of the time, Tor is sufficient for achieving anonymity. However, setting up a VPN/Proxy/SSH in conjunction with Tor can add complexity to your setup and may even compromise your anonymity. Nevertheless, there are certain scenarios where using a VPN/Proxy/SSH might be advisable:
+   1. **Tor is blocked in your country:** In this case, using Tor bridges may be a better option. Consider using a bridge first, and only resort to a VPN/Proxy/SSH before Tor as a last measure.
+   2. **Your traffic is being monitored:** In some countries or specific situations, using Tor may raise suspicion from the government or those monitoring your traffic. In these cases, employing a VPN/Proxy/SSH before Tor can be beneficial.
+   3. **The website you want to visit has blocked Tor:** If a website has blocked Tor, using a VPN/Proxy/SSH after Tor may help you access it.
+
+   In all cases, if the VPN/Proxy/SSH is compromised or is logging your activities, your real identity will be exposed. Therefore, if you must use a VPN, ensure that you choose a reputable and secure VPN provider that has a strict no-logs policy and a proven track record of protecting user privacy.
 
 ## Why?
 
